@@ -1,0 +1,128 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman 1",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "The Flash",
+      "alterEgo": "Barry Alans",
+      "id": 4
+    },
+    {
+      "name": "Aquaman",
+      "alterEgo": "Jason Mamoa",
+      "id": 5
+    },
+    {
+      "name": "Shazam",
+      "alterEgo": "Billy Batson",
+      "id": 6
+    },
+    {
+      "name": "Catwoman",
+      "alterEgo": "Selina Kyle",
+      "id": 7
+    },
+    {
+      "name": "Green Lantern",
+      "alterEgo": "Rayan Reynolds",
+      "id": 8
+    },
+    {
+      "name": "Aquaman2",
+      "alterEgo": "Arthur Curry",
+      "id": 9
+    },
+    {
+      "name": "New Super Hero",
+      "alterEgo": "Some Random Guy",
+      "id": 10
+    },
+    {
+      "name": "New 22",
+      "alterEgo": " Some Other 3",
+      "id": 11
+    },
+    {
+      "name": "asdg",
+      "alterEgo": "aheuy",
+      "id": 12
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "parus@example.com",
+      "channelId": "reactivity-evolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "reactivity-evolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "pink"
+    },
+    {
+      "id": 3,
+      "label": "orange"
+    },
+    {
+      "id": 4,
+      "label": "olive"
+    },
+    {
+      "id": 5,
+      "label": "blue"
+    },
+    {
+      "id": 6,
+      "label": "green"
+    },
+    {
+      "id": 7,
+      "label": "yellow"
+    },
+    {
+      "id": 8,
+      "label": "black"
+    }
+  ]
+}
